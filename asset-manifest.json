@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fea235bf.chunk.css",
-    "main.js": "/static/js/main.ce5fb9d3.chunk.js",
-    "main.js.map": "/static/js/main.ce5fb9d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3e9c6026.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3e9c6026.js.map",
-    "static/js/2.f530c723.chunk.js": "/static/js/2.f530c723.chunk.js",
-    "static/js/2.f530c723.chunk.js.map": "/static/js/2.f530c723.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.fea235bf.chunk.css.map": "/static/css/main.fea235bf.chunk.css.map",
-    "static/js/2.f530c723.chunk.js.LICENSE.txt": "/static/js/2.f530c723.chunk.js.LICENSE.txt"
+    "main.css": "/dnd-like-trello-board/static/css/main.fea235bf.chunk.css",
+    "main.js": "/dnd-like-trello-board/static/js/main.ce5fb9d3.chunk.js",
+    "main.js.map": "/dnd-like-trello-board/static/js/main.ce5fb9d3.chunk.js.map",
+    "runtime-main.js": "/dnd-like-trello-board/static/js/runtime-main.85a299d6.js",
+    "runtime-main.js.map": "/dnd-like-trello-board/static/js/runtime-main.85a299d6.js.map",
+    "static/js/2.f530c723.chunk.js": "/dnd-like-trello-board/static/js/2.f530c723.chunk.js",
+    "static/js/2.f530c723.chunk.js.map": "/dnd-like-trello-board/static/js/2.f530c723.chunk.js.map",
+    "index.html": "/dnd-like-trello-board/index.html",
+    "static/css/main.fea235bf.chunk.css.map": "/dnd-like-trello-board/static/css/main.fea235bf.chunk.css.map",
+    "static/js/2.f530c723.chunk.js.LICENSE.txt": "/dnd-like-trello-board/static/js/2.f530c723.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e9c6026.js",
+    "static/js/runtime-main.85a299d6.js",
     "static/js/2.f530c723.chunk.js",
     "static/css/main.fea235bf.chunk.css",
     "static/js/main.ce5fb9d3.chunk.js"
