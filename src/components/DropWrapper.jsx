@@ -7,9 +7,9 @@ const DropWrapper = ({ onDrop, children, id }) => {
     const [{ isOver }, drop] = useDrop({
         accept: ITEM_TYPE,
         canDrop: (item, monitor) => {
-            const itemIndex = columns.findIndex(column => column.id === item.columnId);
+            const initialColIdx = columns.findIndex(column => column.id === item.columnId);
             const nameIndex = columns.findIndex(column => column.id === id);
-            return [itemIndex + 1, itemIndex - 1, itemIndex].includes(nameIndex);
+            return [initialColIdx + 1, initialColIdx - 1, initialColIdx].includes(nameIndex);
         },
         drop: (item, monitor) => {
             onDrop(item, monitor, id);
